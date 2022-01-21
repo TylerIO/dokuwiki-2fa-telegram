@@ -1,2 +1,4 @@
-# dokuwiki-2fa-telegram
-DokuWiki Plugin. 2FA via Telegram
+# twofactortelegram
+Telegram appliance support plugin for the Twofactor authentication plugin.
+
+See detail on: https://www.dokuwiki.org/plugin:twofactortelegram
