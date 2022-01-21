@@ -1,0 +1,7 @@
+﻿base   twofactortelegram
+author Tyler IO
+email  mpu.cmo@gmail.com
+date   2021-07-02
+name   Two Factor Authentication - Telegram Plugin
+desc   Telegram 2FA plugin
+url    https://www.dokuwiki.org/plugin:twofactortelegram
